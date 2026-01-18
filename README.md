@@ -32,26 +32,15 @@ Esta aplicación es un backend para gestionar libros y autores de una biblioteca
 
 ## 📂 Estructura del proyecto
 Biblioteca backend
-
 src
-
 main
-
-java
-
+java 
 └── com.aluracursos.biblioteca
-
 ├── config
-
-
 │ └── CorsConfiguration.java
-
 ├── controller
-
 │ └── LibroController.java
-
 ├── dto
-
 │ ├── AutorDTO.java
 │ └── LibroDTO.java
 ├── model
