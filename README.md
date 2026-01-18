@@ -35,8 +35,11 @@ Biblioteca backend
 src
 main
 java
+
 └── com.aluracursos.biblioteca
+
 ├── config
+
 │ └── CorsConfiguration.java
 ├── controller
 │ └── LibroController.java
@@ -79,6 +82,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 server.port=8080
+
 🚀 Ejecución
 Para ejecutar el proyecto:
 
